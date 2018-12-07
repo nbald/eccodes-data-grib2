@@ -1,0 +1,33 @@
+{
+  "name": "eccodes-data-grib2",
+  "version": "0.1.0",
+  "description": "GRIB2 format data for eccodes-lib",
+  "main": "index.js",
+  "directories": {
+    "definitions": "definitions"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbald/eccodes-data-grib2.git"
+  },
+  "keywords": [
+    "eccodes",
+    "grib",
+    "grib2",
+    "eccodes-lib",
+    "eccodes-data",
+    "weather",
+    "weather-on-cloud"
+  ],
+  "author": "Nicolas Baldeck",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nbald/eccodes-data-grib2/issues"
+  },
+  "homepage": "https://github.com/nbald/eccodes-data-grib2#readme",
+  "dependencies": {
+  }
+}
